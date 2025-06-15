@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sujit Vishwakarma</h1>
-<h3 align="center">Full Stack Developer | MERN | Former Intern at DRDO | VSSUT ETC' 24</h3>
+<h3 align="center">Full Stack Developer | Codenomix | MERN Stack Enthusiast | Ex-DRDO Intern | VSSUT ETC'24</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitvishwakarma&label=Profile%20views&color=0e75b6&style=flat" alt="sujitvishwakarma" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sujitvi99" target="blank"><img src="https://img.shields.io/twitter/follow/sujitvi99?logo=twitter&style=for-the-badge" alt="sujitvi99" /></a> </p>
 
-- 🔭 I’m currently working on **Flipkart Clone**
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 💬 Ask me about **HTML , React, CSS, JavaScript, MUI**
-
-- 📫 How to reach me **vishwakarma.sujit99@gmail.com**
+- 🔭 Currently building a full-featured **Job seeker Platform** using MERN stack.
+- 🌱 Continuously learning & exploring advanced topics in **React.js, Node.js, and  hosting ( Vercel)**.
+- 🧠 Passionate about building real-world applications that solve real problems.
+- 💬 Ask me about **HTML, CSS, JavaScript, React, MUI, Tailwind, MongoDB, and REST APIs**.
+- 🏢 Former Intern at **DRDO** where I contributed to tech-driven research solutions.
+- 📫 Reach me at: **vishwakarma.sujit99@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1alGgJYB_lKasZ4eMlQXnDqkjmg9qiQbd/view?usp=drive_link](https://drive.google.com/file/d/1alGgJYB_lKasZ4eMlQXnDqkjmg9qiQbd/view?usp=drive_link)
 
